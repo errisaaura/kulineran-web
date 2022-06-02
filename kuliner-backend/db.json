@@ -1,0 +1,49 @@
+{
+    "best-products" : [
+        {
+            "id" : 1,
+            "kode" : "K-01",
+            "nama" : "Sate Ayam",
+            "harga" : 16000,
+            "id_ready" : true,
+            "gambar" : "sate-ayam.jpg"
+
+        },
+        {
+            "id" : 2,
+            "kode" : "K-02",
+            "nama" : "Nasi Goreng Telor",
+            "harga" : 14000,
+            "id_ready" : true,
+            "gambar" : "nasi-goreng-telor.jpg"
+
+        },
+        {
+            "id" : 3,
+            "kode" : "K-03",
+            "nama" : "Nasi Rames",
+            "harga" : 12000,
+            "id_ready" : true,
+            "gambar" : "nasi-rames.jpg"
+
+        }
+    ],
+    "products" : [
+        {
+            "id" : 1,
+            "kode" : "K-01",
+            "nama" : "Sate Ayam",
+            "harga" : 16000,
+            "id_ready" : true,
+            "gambar" : "sate-ayam.jpg"
+
+        }
+
+    ],
+    "keranjangs" : [
+
+    ],
+    "pesanans" : [
+
+    ]
+}

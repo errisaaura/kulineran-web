@@ -3,7 +3,7 @@
     <Navbar />
     <div class="container">
       <!-- breadcrumb?\ -->
-      <div class="row mt-5">
+      <div class="row mt-4">
         <div class="col">
           <!-- <h1>Foods Detail {{ $route.params.id}}</h1> -->
           <nav aria-label="breadcrumb">

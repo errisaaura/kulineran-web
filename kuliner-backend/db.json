@@ -99,33 +99,147 @@
       "gambar": "pangsit.jpg"
     }
   ],
-  "keranjangs": [
+  "keranjangs": [],
+  "pesanans": [
     {
-      "jumlah_pemesanan": "2",
-      "keterangan": "Pedas Sekali",
-      "products": {
-        "id": 2,
-        "kode": "K-02",
-        "nama": "Nasi Goreng Telor",
-        "harga": 14000,
-        "id_ready": true,
-        "gambar": "nasi-goreng-telor.jpg"
-      },
+      "nama": "Errisaa",
+      "noMeja": "20",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "2",
+          "keterangan": "",
+          "products": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "id_ready": true,
+            "gambar": "sate-ayam.jpg"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": "3",
+          "products": {
+            "id": 5,
+            "kode": "K-05",
+            "nama": "Lontong Opor Ayam",
+            "harga": 13000,
+            "id_ready": true,
+            "gambar": "lontong-opor-ayam.jpg"
+          },
+          "id": 2
+        }
+      ],
       "id": 1
     },
     {
-      "jumlah_pemesanan": "1",
-      "keterangan": "iyah",
-      "products": {
-        "id": 3,
-        "kode": "K-03",
-        "nama": "Nasi Rames",
-        "harga": 12000,
-        "id_ready": true,
-        "gambar": "nasi-rames.jpg"
-      },
+      "nama": "Auta",
+      "noMeja": "1",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "2",
+          "keterangan": "",
+          "products": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "id_ready": true,
+            "gambar": "sate-ayam.jpg"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": "3",
+          "products": {
+            "id": 5,
+            "kode": "K-05",
+            "nama": "Lontong Opor Ayam",
+            "harga": 13000,
+            "id_ready": true,
+            "gambar": "lontong-opor-ayam.jpg"
+          },
+          "id": 2
+        }
+      ],
       "id": 2
+    },
+    {
+      "nama": "Aku",
+      "noMeja": "2",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "2",
+          "products": {
+            "id": 8,
+            "kode": "K-08",
+            "nama": "Nasi Ayam Geprek",
+            "harga": 15000,
+            "id_ready": true,
+            "gambar": "nasi-ayam-geprek.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "nama": "Meong",
+      "noMeja": "10",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "2",
+          "products": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Nasi Rames",
+            "harga": 12000,
+            "id_ready": true,
+            "gambar": "nasi-rames.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "nama": "kucing",
+      "noMeja": "1",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "2",
+          "products": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telor",
+            "harga": 14000,
+            "id_ready": true,
+            "gambar": "nasi-goreng-telor.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 5
+    },
+    {
+      "nama": "errisa",
+      "noMeja": "7",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "2",
+          "products": {
+            "id": 7,
+            "kode": "K-07",
+            "nama": "Mie Goreng",
+            "harga": 10000,
+            "id_ready": true,
+            "gambar": "mie-goreng.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 6
     }
-  ],
-  "pesanans": []
+  ]
 }
